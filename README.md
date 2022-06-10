@@ -2,6 +2,6 @@
 
 Foi abordado nesse desafio:  
 - Variáveis; 
-- - Operações matemáticas; 
-- - Operadores comparativos; 
-- - Condicional.
+- Operações matemáticas; 
+- Operadores comparativos; 
+- Condicional.
